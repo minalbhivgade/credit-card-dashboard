@@ -50,5 +50,7 @@ Develop a dashboard that highlights key trends contributing to revenue, enabling
 
 
 ## Contact
-For any questions or feedback, please reach out to me on [LinkedIn](https://www.linkedin.com/minalbhivgade).
+For any questions or feedback, please reach out to me on [LinkedIn](www.linkedin.com/in/
+minalbhivgade
+).
 
