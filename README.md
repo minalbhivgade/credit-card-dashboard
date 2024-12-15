@@ -31,13 +31,16 @@ Develop a dashboard that highlights key trends contributing to revenue, enabling
 - Create two distinct dashboards:
   - Credit Card Transaction Report
   - Credit Card Customer Report## Credit Card Financial Dashboard
+## Credit Card Financial Dashboard
 
+This project involves creating a comprehensive Credit Card Financial Dashboard using Power BI, SQL, and Excel.
 
 ### Credit Card Customer Report
-![Credit Card Customer](https://drive.google.com/file/d/1lvuV_712tSXfxCjqmpCSPD9gmEGPoC9Z/view?usp=drive_link)
+![Credit Card Customer](https://drive.google.com/uc?export=view&id=1lvuV_712tSXfxCjqmpCSPD9gmEGPoC9Z)
 
 ### Credit Card Transaction Report
-![Credit Card Transaction](https://drive.google.com/file/d/1FKJj0dr_0Gm3tvua9e5CGFmHfvtehL5g/view?usp=drive_link)
+![Credit Card Transaction](https://drive.google.com/uc?export=view&id=1FKJj0dr_0Gm3tvua9e5CGFmHfvtehL5g)
+
 
 
 
