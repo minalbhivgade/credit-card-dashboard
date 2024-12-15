@@ -30,7 +30,17 @@ Develop a dashboard that highlights key trends contributing to revenue, enabling
 - Use charts, tables, matrix, etc.
 - Create two distinct dashboards:
   - Credit Card Transaction Report
-  - Credit Card Customer Report
+  - Credit Card Customer Report## Credit Card Financial Dashboard
+
+
+### Credit Card Customer Report
+![Credit Card Customer](https://drive.google.com/file/d/1lvuV_712tSXfxCjqmpCSPD9gmEGPoC9Z/view?usp=drive_link)
+
+### Credit Card Transaction Report
+![Credit Card Transaction](https://drive.google.com/file/d/1FKJj0dr_0Gm3tvua9e5CGFmHfvtehL5g/view?usp=drive_link)
+
+
+
 
 ## Insights
 1. Quarterly Revenue: $14M each in Q1, Q2, Q3, and Q4
