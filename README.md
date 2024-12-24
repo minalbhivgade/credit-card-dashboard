@@ -30,7 +30,7 @@ Develop a dashboard that highlights key trends contributing to revenue, enabling
 - Use charts, tables, matrix, etc.
 - Create two distinct dashboards:
   - Credit Card Transaction Report
-  - Credit Card Customer Report## Credit Card Financial Dashboard
+  - Credit Card Customer Report
 ## Credit Card Financial Dashboard
 
 You can view the live Power BI dashboard by clicking the link below:
