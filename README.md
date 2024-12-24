@@ -34,6 +34,12 @@ Develop a dashboard that highlights key trends contributing to revenue, enabling
 ## Credit Card Financial Dashboard
 
 This project involves creating a comprehensive Credit Card Financial Dashboard using Power BI, SQL, and Excel.
+## Live Power BI Dashboard
+
+You can view the live Power BI dashboard by clicking the link below:
+
+[View Live Power BI Dashboard](<iframe title="credit_card_analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTY5NWJhZWEtMGYxZS00MTEzLWJiMTgtNjJmMWZmNmM0NDc1IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9" frameborder="0" allowFullScreen="true"></iframe>)
+
 
 ### Credit Card Customer Report
 ![Credit Card Customer](https://drive.google.com/uc?export=view&id=1lvuV_712tSXfxCjqmpCSPD9gmEGPoC9Z)
